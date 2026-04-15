@@ -57,3 +57,5 @@ Este proyecto está construido con un stack tecnológico moderno y altamente tip
 
 ## Contribuciones
 Las contribuciones para mejorar la precisión de los cruces de promedios, añadir nuevas fuentes de tendencias o expandir el tablero son más que bienvenidas. Puedes abrir un issue para discutir las propuestas o realizar un *Pull Request* directamente.
+
+Este proyecto fue generado inicialmente con Google Antigravity.
