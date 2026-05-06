@@ -1,6 +1,6 @@
 # Trend Dashboard (Panel de Predicción y Análisis de Tendencias)
 
-![Trend Dashboard Screenshot](./data/dashboard-screenshot.png)
+![Trend Dashboard Screenshot](./data/screen.png)
 
 ## Propósito del Proyecto
 **Trend Dashboard** es una aplicación web avanzada diseñada para predecir, monitorizar y analizar tendencias de búsqueda utilizando el flujo de datos de Google Trends. 
